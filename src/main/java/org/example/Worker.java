@@ -21,7 +21,7 @@ public class Worker extends Employee{
 
     @Override
     public double getSalary() {
-        return salary;
+        return salary();
     }
     // переопределенный метод toString для вывода данных объекта в консоль
 

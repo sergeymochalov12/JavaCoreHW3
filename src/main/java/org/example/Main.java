@@ -15,8 +15,8 @@ public class Main {
         List<Employee> employeeList = new ArrayList<>();
 
         employeeList.add(new Worker("Сергей", "Мочалов", 42, 30000));
-        employeeList.add(new Worker("Тимур", "Камильянов", 43, 30000));
-        employeeList.add(new Worker("Лилия", "Гарипова", 43, 30000));
+        employeeList.add(new Worker("Тимур", "Камильянов", 43, 40000));
+        employeeList.add(new Worker("Лилия", "Гарипова", 43, 35000));
         employeeList.add(new Freelancer("Юлия", "Мочалова", 36, 500));
         employeeList.add(new Freelancer("Ринат", "Зарипов", 32, 400));
         employeeList.add(new Freelancer("Станислав", "Мощалкин", 32, 550));
